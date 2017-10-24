@@ -1,0 +1,21 @@
+{
+  "name": "thumb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "walk.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "babel-watch app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "fs": "^0.0.1-security",
+    "gm": "^1.23.0",
+    "lodash": "^4.17.4",
+    "walk": "^2.3.9"
+  }
+}
